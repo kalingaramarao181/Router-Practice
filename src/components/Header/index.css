@@ -1,0 +1,36 @@
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.wave-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.wave-logo {
+  height: 30px;
+  margin-right: 15px;
+}
+.wave-head {
+  color: #551e53;
+  font-size: 30px;
+  font-family: 'Roboto';
+}
+.header-items {
+  list-style-type: None;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.tab-item {
+  color: #551e53;
+  font-family: 'Roboto';
+  font-size: 28px;
+  margin-right: 20px;
+  font-weight: 600;
+  font-style: none;
+}
